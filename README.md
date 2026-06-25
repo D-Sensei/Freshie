@@ -62,10 +62,10 @@ Don't rush. Don't skip. Show up every day.
 
 ---
 
-## 📌 Phase 4: On Your Own (Practice Until You Get a Job)
+## 📌 Phase 4: On Your Own (Practice)
 
 > You now know enough. Everything from here is about **practice, repetition, and problem-solving**.
-> This phase has no end date: keep going until you land a job.
+> This phase has no end date: keep going until you land a role.
 
 ### 4.1 Aptitude
 #### *For Aptitude try to solve each question under 1 min -> Start now to get used to problems*
