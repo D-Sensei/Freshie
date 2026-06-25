@@ -71,7 +71,7 @@ Don't rush. Don't skip. Show up every day.
 
 | Resource | Notes |
 |----------|-------|
-| [Python Practice Playlist](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt) | Keep revisiting and building things. |
+| [Aptitude Question](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt) | Essential for Jobs |
 
 ---
 
