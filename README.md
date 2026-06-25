@@ -1,11 +1,7 @@
-# 🖥️ CS Fresher Roadmap — From Zero to Job-Ready
-
-> **Who is this for?** Someone who has never touched a laptop before and is starting computer science from absolute scratch.
-> Follow the phases in order. Be consistent. Do not skip ahead.
-
+# 🖥️ CS Fresher Roadmap
 ---
 
-## ✅ Golden Rule
+## ✅  Rule 1
 
 > *"Do this consistently and you are more than 90% ahead of other students."*
 
@@ -13,63 +9,63 @@ Don't rush. Don't skip. Show up every day.
 
 ---
 
-## 📌 Phase 1 — Scratch (Visual Thinking, No Coding Yet)
+## 📌 Phase 1: Scratch (Visual Thinking, No Coding Yet)
 
-> Get comfortable with how computers and logical thinking work — before writing a single line of code.
+> Get comfortable with how computers and logical thinking work: before writing a single line of code.
 
 | # | Resource | Notes |
 |---|----------|-------|
-| 1.1 | [How Computers Work — Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) | Start here. Understand what a computer actually is. |
-| 1.2 | [Scratch Programming Playlist](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ4zk5DA8nokLWCgtnYndmDC) | Learn logic visually using MIT Scratch — no syntax required. |
-| 1.3 | [CS50 Scratch — Week 0](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC) | ⚠️ Start this once you have a laptop. You can browse through it first if you want a preview. |
+| 1.1 | [How Computers Work: Code.org](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) | Start here. Understand what a computer actually is. |
+| 1.2 | [CS50](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ4zk5DA8nokLWCgtnYndmDC) | Learn logic visually using MIT Scratch: no syntax required. |
+| 1.3 | [Comptia A+](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC) | ⚠️ Start this once you have a laptop. You can browse through it first if you want a preview. |
 
 ---
 
-## 📌 Phase 2 — Fundamentals (Your Core Foundation)
+## 📌 Phase 2: Fundamentals (Your Core Foundation)
 
-> This phase will take **more than a month** — that is completely normal. Be consistent. Take notes daily. Aim for **3 hours every day**.
+> This phase will take **more than a month**: that is completely normal. Be consistent. Take notes daily. Aim for **3 hours every day**.
 
 ### How to approach this phase:
-- Watch **2.1 and 2.2 together** — watch the corresponding week from both playlists side by side.
-- After finishing CS50, go deep into **2.3** — it will teach you more Python than your entire college syllabus ever will.
+- Watch **2.1 and 2.2 together**: watch the corresponding week from both playlists side by side.
+- After finishing CS50, go deep into **2.3**: it will teach you more Python than your entire college syllabus ever will.
 
 | # | Resource | Notes |
 |---|----------|-------|
-| 2.1 | [CS50x — Harvard (Full Course)](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R) | The most recommended CS course in the world. Do not skip this. |
-| 2.2 | [CS50P — Python (Harvard)](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYu0V) | Watch each week's video alongside the matching CS50x week. |
-| 2.3 | [Corey Schafer — Python Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) | Go deep here. One topic per video, extremely clean explanations. This playlist alone is more than enough for Python mastery. |
+| 2.1 | [CS50x: Harvard (Full Course)](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R) | The most recommended CS course in the world. Do not skip this. |
+| 2.2 | [CS50P: Python (Harvard)](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYu0V) | Watch each week's video alongside the matching CS50x week. |
+| 2.3 | [Corey Schafer: Python Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) | Go deep here. One topic per video, extremely clean explanations. This playlist alone is more than enough for Python mastery. |
 
 ---
 
-## 📌 Phase 3 — Core Computer Science Concepts
+## 📌 Phase 3: Core Computer Science Concepts
 
 > Build the theoretical foundation that every good developer needs.
 
-### 3.1 — Networking
+### 3.1: Networking
 
 | Resource | Notes |
 |----------|-------|
-| [Neso Academy — Computer Networks](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Structured and complete networking playlist. |
+| [Neso Academy: Computer Networks](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx) | Structured and complete networking playlist. |
 | [Networking Crash Course](https://www.youtube.com/watch?v=IPvYjXCsTg8) | Quick, clear overview to reinforce concepts. |
 
-### 3.2 — Algorithms
+### 3.2: Algorithms
 
 | Resource | Notes |
 |----------|-------|
-| [Abdul Bari — Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) | The best visual explanation of algorithms on YouTube. |
+| [Abdul Bari: Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) | The best visual explanation of algorithms on YouTube. |
 
-### 3.3 — Data Structures
+### 3.3: Data Structures
 
 | Resource | Notes |
 |----------|-------|
-| [Neso Academy — Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) | Covers arrays, linked lists, stacks, queues, trees — all clearly explained. |
+| [Neso Academy: Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) | Covers arrays, linked lists, stacks, queues, trees: all clearly explained. |
 
 ---
 
-## 📌 Phase 4 — On Your Own (Practice Until You Get a Job)
+## 📌 Phase 4: On Your Own (Practice Until You Get a Job)
 
 > You now know enough. Everything from here is about **practice, repetition, and problem-solving**.
-> This phase has no end date — keep going until you land a job.
+> This phase has no end date: keep going until you land a job.
 
 ### 🎯 Keep Practising Python
 
@@ -94,7 +90,7 @@ Practice on these platforms every day:
 
 > The first few months of LeetCode will feel impossible. That is normal.
 
-- If you cannot solve a problem — **write it down**.
+- If you cannot solve a problem: **write it down**.
 - Break it apart. Decode it. Think about it again the next day.
 - The first few months are entirely about **learning to think logically**, not about getting every answer right.
 
@@ -116,8 +112,7 @@ Practice on these platforms every day:
         ↓
 4.0 → Practice Python Daily
 4.1 → HackerRank → LeetCode 75
-        ↓
-        🎯 Keep going until you get a job.
+
 ```
 
 ---
@@ -126,8 +121,9 @@ Practice on these platforms every day:
 
 - **Consistency beats intensity.** 3 focused hours daily is better than 10 hours once a week.
 - **Take notes by hand.** It builds retention that passive watching never will.
-- **Build small projects.** After Phase 2, try to build something — anything. A calculator, a to-do list, a quiz app.
+- **Build small projects.** After Phase 2, try to build something: anything. A calculator, a to-do list, a quiz app.
 - **Do not compare your progress** to others. Everyone's pace is different.
+- **Do Projects -> Learn github -> Post your Project Here**
 
 ---
 
