@@ -11,7 +11,7 @@ Don't rush. Don't skip. Show up every day.
 
 ## 📌 Phase 1: Scratch (Visual Thinking, No Coding Yet)
 
-> Get comfortable with how computers and logical thinking work: before writing a single line of code.
+> Get comfortable with how computers and logical thinking work: before writing a single line of code. Try to complete it in 1-2 week at max if possible.
 
 | # | Resource | Notes |
 |---|----------|-------|
