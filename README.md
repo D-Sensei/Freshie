@@ -67,28 +67,30 @@ Don't rush. Don't skip. Show up every day.
 > You now know enough. Everything from here is about **practice, repetition, and problem-solving**.
 > This phase has no end date: keep going until you land a job.
 
-### 🎯 Keep Practising Python
+### 4.1 Aptitude
+#### *For Aptitude try to solve each question under 1 min -> Start now to get used to problems*
 
 | Resource | Notes |
 |----------|-------|
-| [Aptitude Question](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt) | Essential for Jobs |
+| [Aptitude Question](https://www.youtube.com/playlist?list=PLpyc33gOcbVA4qXMoQ5vmhefTruk5t9lt) | Essential for Job Interviews |
 
 ---
 
-### 🧩 Competitive Problem Solving
+### 4.2 Competitive Problem Solving
 
-Practice on these platforms every day:
+Practice on these platforms every day (You can start 4.1 and 4.2 simultaneously there is no sequence here):
 
 | Platform | Link | Notes |
 |----------|------|-------|
 | **HackerRank** | [hackerrank.com](https://www.hackerrank.com) | Great for beginners. Start here to build confidence. |
 | **LeetCode 75** | [LeetCode Study Plan](https://leetcode.com/studyplan/leetcode-75/) | **Must complete.** The 75 most important problems for interviews. |
 
+
 ---
 
 ### 💡 Problem-Solving Mindset
 
-> The first few months of LeetCode will feel impossible. That is normal.
+> The first few months of LeetCode or hackerRank will feel impossible. That is normal.
 
 - If you cannot solve a problem: **write it down**.
 - Break it apart. Decode it. Think about it again the next day.
